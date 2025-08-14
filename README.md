@@ -1,2 +1,2 @@
 # Delta-demo
-This is beginner
+This is demo for git & github
